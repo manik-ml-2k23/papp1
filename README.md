@@ -36,7 +36,7 @@ Restaurant20To50          189
 - Car column was dropped as majority of them are missing  
 - After removing the Car column, remaining NANs were dropped
 - Percent of missing data 4.769
-- The cleaned ata was then left with 12079 entries
+- The cleaned data was then left with 12079 entries
 
 ## Data Analysis:
 
@@ -66,9 +66,9 @@ What proportion of the total observations chose to accept the coupon?
 
 #### Hypothesisation for bar data:
 
-**Acceptance rate for who went to bar more than three times a month is high**
+- Acceptance rate for who went to bar more than three times a month is high
 
-**Acceptance rate higher for driver who went to bar more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry**
+- Acceptance rate higher for driver who went to bar more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry
 
 ### Summary of analysis for Coffee House coupon:
 
@@ -81,7 +81,6 @@ What proportion of the total observations chose to accept the coupon?
 
 #### Coffeehouse data visualisation
 
-
 ![alt text](images/sns_hist_plot31.png)
 
 ![alt text](images/sns_count_plot33.png)
@@ -89,11 +88,12 @@ What proportion of the total observations chose to accept the coupon?
 ![alt text](images/sns_count_plot35.png)
 
 #### Hypothesisation for Coffeehouse data:
-**About 41.19 Percent of drivers in general accept the coupons**
 
-**acceptance rate for those who went to a coffee house more than 3 times is higher at 67.25 compared to who went less than 3 times.**
+- About 41.19 Percent of drivers in general accept the coupons
 
-**Acceptance rate of higher for drivers age under 25 at 70.83 % compared to age over 25 at 63.95%**
+- Acceptance rate for those who went to a coffee house more than 3 times is higher at 67.25 compared to who went less than 3 times
+
+- Acceptance rate of higher for drivers age under 25 at 70.83 % compared to age over 25 at 63.95%
 
 ## Next Steps:
 As per CRISP-DM, the next step would be to apply modeling techniques on the data, to cofirm the analysis done and feedback into exploration and analysis process if needed.
